@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @chrisvaile
-- 👀 I’m interested in: Football
-- 🌱 I’m currently learning: Python, C#
-- 📫 How to reach me: Twitter @vaile
+👋 Hi, I’m @chrisvaile
 
 <!---
 chrisvaile/chrisvaile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
